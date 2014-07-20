@@ -1,0 +1,220 @@
+
+.col-xs-5{
+	border:solid black;
+}
+
+.col-xs-7{
+	border:solid black;
+}
+
+.col.xs.12{
+	border:solid black;
+	background-color: green;
+}
+
+body{
+	font-family: "Pontano Sans",sans-serif;
+}
+h1{
+	color: white;
+	font-size: 3.2em;
+	font-weight: 100;
+	padding: 50px 0px 10px;
+	margin-right: 20px;
+	line-height: 0.65;
+	float: left;
+	text-align: left;
+}
+
+#title h2
+{
+	font-size: 2.8em;
+}
+
+h3
+{
+	font-size: 32px;
+}
+
+strong{
+	font-size: 0.4em;
+	font-weight: normal;
+}
+
+#main_row{
+	text-align: center;
+	
+}
+
+#nav_background{
+  background-color: #3498DB;
+  height: 175px;
+  margin-bottom: -175px;
+  z-index: -1;
+}
+
+#left, #right {
+		
+}
+
+#center, #left, #right{
+}
+
+#nav_area_name{
+	color: white;
+	height:175px;
+}
+
+#nav_area_links{
+  	height:175px;
+}
+
+#icons{
+	position: absolute;
+	height: 50%;
+	top:25%;
+	bottom:25%;
+}
+
+.icon_wrapper{
+	height: 65px;
+	width: 65px;
+	float: left;
+	margin: 0px 7px;
+}
+
+.icon{
+	height:65px;
+	width: 65px;
+
+}
+
+ .icon_wrapper p {
+    vertical-align: middle;
+    margin: 13px 0px;
+    color:white;
+    font-size: 23.6833px;
+    text-align: center;
+    opacity: 0;
+
+    position: relative;
+    top:-35px;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+
+
+.icon_wrapper:hover p{
+  opacity: 1;
+  -webkit-transform: translateY(30px);
+  -moz-transform: translateY(30px);
+  transform: translateY(30px); }
+}
+
+.title
+{
+	text-align: center;
+}
+
+h2, h3{
+	color: #3498DB;
+}
+
+h2{
+	text-align: center;
+}
+
+
+#about_me p{
+	margin-top: 30px;
+	font-size: 17;
+}
+
+.line {
+    margin: 3px 0px;
+    height: 1px;
+    width: 900px;
+    background-color: #3498DB;
+}
+//
+
+#nav_area p{
+	color: white;
+}
+
+#nav_area{
+	position: relative;
+	top:-10px;
+}
+
+.icon{
+	cursor: pointer;
+}
+
+.spacer{
+	height:50px;
+}
+
+.blog_summary
+{
+  padding-top: 20px;
+}
+
+.blog_summary_title
+{
+  width :50%;
+  text-align: left;
+  font-weight: bold;
+  font-size: 20;
+  }
+
+.blog_summary_date
+{
+  width :50%;
+  text-align: right;
+  font-size: 20;
+  
+}
+
+.blog_summary_summary
+{
+  
+}
+
+.float_left
+{
+  float: left;
+}
+
+.float_right
+{
+  float: right;
+}
+
+a:link
+{
+	text-decoration: underline;
+}
+
+p{
+	font-size: 17;
+}
+
+.bottom_banner
+{
+  background-color: #3498DB;
+  height: 50px;
+  margin-top:2em;
+  opacity: 0.6;
+}
+
+#signature
+{
+	font-size: 1em;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+
+}
